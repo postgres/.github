@@ -9,7 +9,7 @@ exemptLabels: []
 
 # Comment to post before closing or locking. Set to `false` to disable
 comment: >
-  Thanks for your Pull Request! :smile:  This repo on GitHub is just a mirror of our real git repositories though, and can't really handle PRs. :frown: Hopefully you can redo the PR, and direct it to the git.postgresql.org repos?  We have a developer guide, if that helps: https://wiki.postgresql.org/wiki/So,_you_want_to_be_a_developer%3F
+  Thanks for your Pull Request! :smile:  This repo on GitHub is just a mirror of our real git repositories though, and can't really handle PRs. :frowning: Hopefully you can redo the PR, and direct it to the git.postgresql.org repos?  We have a developer guide, if that helps: https://wiki.postgresql.org/wiki/So,_you_want_to_be_a_developer%3F. If this was a PR for pgAdmin, please visit https://www.pgadmin.org/docs/pgadmin4/dev/submitting_patches.html.
 # Label to add before closing or locking. Set to `false` to disable
 label: false
 
